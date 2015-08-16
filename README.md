@@ -1,2 +1,2 @@
 # HTMLTemplateSample
-the html template sample with Go.
+The html template sample with Go.
